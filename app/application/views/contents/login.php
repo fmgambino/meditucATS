@@ -51,7 +51,7 @@
 
         <main class=" video">
             <video autoplay muted loop id="video_background" preload="auto" volume="0">
-              <source src="<?php echo base_url('/assets/img/medTucEdificio.jpg') ?>" type="img"/>
+              <source src="<?php echo base_url('/images/videos/cascadaYakuIntro.mp4') ?>" type="video/mp4"/>
             </video>  
             
             <img src="<?php echo base_url('/assets/img/logo_ministerio.png') ?>" class="logo1" />
