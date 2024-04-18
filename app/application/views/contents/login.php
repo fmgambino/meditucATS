@@ -51,7 +51,14 @@
 
         <main class=" video">
 
-        <section class="imgBackground"></section>
+
+        <div class="login-container">
+            <div class="login-form"></div>
+            <div class="imgBackground"></div>
+        </div>
+
+
+        <!-- <section class="imgBackground"></section> -->
          
             <div class="col-12">
                 <a href="https://medtucats.fmgambino.info">
