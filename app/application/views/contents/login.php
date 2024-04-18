@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>YAKU - SISTEMA HIGROSCÓPICO 2023</title>
+    <title>SICYM ATS - Ministerio de Educación - Gobierno de Tucumán</title>
 
     <!-- Add to homescreen for Chrome on Android -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -50,9 +50,9 @@
 
 
         <main class=" video">
-            <video autoplay muted loop id="video_background" preload="auto" volume="0">
-              <source src="<?php echo base_url('images/videos/cascadaYakuIntro.mp4') ?>" type="video/mp4"/>
-            </video>            
+       
+            <img src="<?php echo base_url('/assets/img/medTucEdificio.jpg') ?>" class="logo1" />
+                      
             <div class="col-12">
                 <a href="https://medtucats.fmgambino.info">
                     <img src="<?php echo base_url('/assets/img/logo_ministerio.png') ?>" class="logo1" />
@@ -92,9 +92,8 @@
                     </div>
                 </div>
                 <div class="mt-5">
-                    <div class="text-center tamaño">Proyecto Final de Carreras 2023</div>
-
-                    <div class="text-center tamaño mt-1">UTN - FRT</div>
+                    <div class="text-center tamaño">Sistema Integral de Control y Monitoreo ATS</div>
+                    <div class="text-center tamaño mt-1">2023 - Ministerio de Educación - Subdirección de Informática.</div>
                 </div>
                 <div class="" style="color:red">
                     <?php echo $msg ?>
