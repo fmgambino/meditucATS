@@ -499,7 +499,14 @@ section{
    background-attachment: fixed;
 }
 .imgBackground {
-  background-image: url("https://medtucats.fmgambino.info/assets/img/medTucEdificio.jpg")
+  position: absolute; /* Posicionamiento absoluto para cubrir toda el área */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://medtucats.fmgambino.info/assets/img/medTucEdificio.jpg") /* URL de tu imagen */
+  background-size: cover; /* Cubrir toda el área */
+  background-position: center; /* Centrar la imagen */
 }
 
 #video_background {
