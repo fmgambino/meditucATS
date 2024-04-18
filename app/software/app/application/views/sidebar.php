@@ -1,6 +1,6 @@
 <div class="mdl-layout__drawer">
   <header class="hc-sidebar form-inline ">
-    <img src="<?php echo base_url('images/yakubox1.png')?>" class="logo">    
+    <img src="<?php echo base_url('assets/img/logo_ministerio.png')?>" class="logo">    
   </header>
   <div class="scroll__wrapper" id="scroll__wrapper">
     <div class="scroller" id="scroller">
@@ -23,9 +23,9 @@
 
           <div class="mdl-layout-spacer"></div>
           <hr>
-          <a class="mdl-navigation__link hc-text-white hc-grow" href="https://yakubox.net/">
+          <a class="mdl-navigation__link hc-text-white hc-grow" href="https://medtucats.fmgambino.info/">
             <i class="material-icons hc-text-white" role="presentation">link</i>
-            yakubox.net
+            medtucats.info
           </a>
         </nav>
       </div>

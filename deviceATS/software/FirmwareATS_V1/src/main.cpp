@@ -40,7 +40,7 @@ const int resolution = 8; //Resolution 8, 10, 12, 15
 const String serial_number = "797079";
 const String insert_password = "285289";
 const String get_data_password = "420285";
-const char *server = "yakubox.info";
+const char *server = "medtucats.info";
 
 // MQTT
 const char *mqtt_server = "broker.emqx.io";

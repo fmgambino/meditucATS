@@ -141,7 +141,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `fb_user`, `user_date`, `user_name`, `user_email`, `user_password`, `user_image`, `user_selected_device`) VALUES
-(2, NULL, '2021-12-04 20:43:52', 'Fulanito', 'demo@demo.com', 'ea7addf05e61754962268a1f44d4f33079249326', 'https://yakubox.info/app/images/iconApp.png', 11);
+(2, NULL, '2021-12-04 20:43:52', 'Fulanito', 'demo@demo.com', 'ea7addf05e61754962268a1f44d4f33079249326', 'https://medtucats.fmgambino.info/app/images/iconApp.png', 11);
 
 --
 -- Índices para tablas volcadas

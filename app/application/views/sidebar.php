@@ -23,9 +23,9 @@
 
           <div class="mdl-layout-spacer"></div>
           <hr>
-          <a class="mdl-navigation__link hc-text-white hc-grow" href="https://yakubox.info">
+          <a class="mdl-navigation__link hc-text-white hc-grow" href="https://medtucats.fmgambino.info">
             <i class="material-icons hc-text-white" role="presentation">link</i>
-            yakubox.info
+            medtucats.info
           </a>
         </nav>
       </div>

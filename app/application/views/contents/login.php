@@ -54,7 +54,7 @@
               <source src="<?php echo base_url('images/videos/cascadaYakuIntro.mp4') ?>" type="video/mp4"/>
             </video>            
             <div class="col-12">
-                <a href="https://yakubox.info">
+                <a href="https://medtucats.fmgambino.info">
                     <img src="<?php echo base_url('images/yaku.png') ?>" class="logo1" />
                 </a>
             </div>
