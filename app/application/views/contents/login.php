@@ -50,8 +50,11 @@
 
 
         <main class=" video">
-       
-            <img src="<?php echo base_url('/assets/img/medTucEdificio.jpg') ?>" class="logo1" />
+            <video autoplay muted loop id="video_background" preload="auto" volume="0">
+              <source src="<?php echo base_url('/assets/img/medTucEdificio.jpg') ?>" type="img"/>
+            </video>  
+            
+            <img src="<?php echo base_url('/assets/img/logo_ministerio.png') ?>" class="logo1" />
                       
             <div class="col-12">
                 <a href="https://medtucats.fmgambino.info">
@@ -92,8 +95,8 @@
                     </div>
                 </div>
                 <div class="mt-5">
-                    <div class="text-center tamaño">Sistema Integral de Control y Monitoreo ATS</div>
-                    <div class="text-center tamaño mt-1">2023 - Ministerio de Educación - Subdirección de Informática.</div>
+                <div class="text-center tamaño">Sistema Integral de Control y Monitoreo ATS</div>
+                <div class="text-center tamaño mt-1">2023 - Ministerio de Educación - Subdirección de Informática.</div>
                 </div>
                 <div class="" style="color:red">
                     <?php echo $msg ?>
