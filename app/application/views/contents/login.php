@@ -51,12 +51,7 @@
 
         <main class=" video">
 
-
-        <div class="login-container">
-            <div class="login-form"></div>
-            <div class="imgBackground"></div>
-        </div>
-
+        <section class="imgBackground-1"></section>
 
         <!-- <section class="imgBackground"></section> -->
          
