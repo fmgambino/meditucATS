@@ -49,9 +49,9 @@
     <div class="">
 
 
-        <main class=" video">
+        <main class="video">
 
-        <section class="imgBackground-1"></section>
+        <section class="imgBackground"></section>
 
         <!-- <section class="imgBackground"></section> -->
          
