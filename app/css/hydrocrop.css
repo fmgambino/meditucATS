@@ -490,6 +490,17 @@ td{
     color: var(--azul3);
 }
 
+section{
+    height:100vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-attachment: fixed;
+}
+.imgBackground {
+  background-image: url("https://medtucats.fmgambino.info/assets/img/medTucEdificio.jpg")
+}
 
 #video_background {
     position: absolute;

@@ -50,12 +50,9 @@
 
 
         <main class=" video">
-            <video autoplay muted loop id="video_background" preload="auto" volume="0">
-              <source src="https://medtucats.fmgambino.info/assets/img/medTucEdificio.jpg" type="video/mp4"/>
-            </video>  
-            
-            <img src="<?php echo base_url('/assets/img/logo_ministerio.png') ?>" class="logo1" />
-                      
+
+        <section class="imgBackground"></section>
+         
             <div class="col-12">
                 <a href="https://medtucats.fmgambino.info">
                     <img src="<?php echo base_url('/assets/img/logo_ministerio.png') ?>" class="logo1" />
