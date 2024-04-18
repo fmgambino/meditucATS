@@ -507,6 +507,8 @@ section{
   background-image: url("https://medtucats.fmgambino.info/assets/img/medTucEdificio.jpg"); /* URL de tu imagen */
   background-size: cover; /* Cubrir toda el área */
   background-position: center; /* Centrar la imagen */
+  background-image: linear-gradient(to bottom, #ffc107, #276A94); /* Degradado */
+  opacity: 0.5; /* Opacidad para suavizar la sombra */
 }
 
 #video_background {
