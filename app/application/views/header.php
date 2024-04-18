@@ -4,7 +4,7 @@
     </div>
     <div class=" form-inline">
         <div class="d-none d-sm-none d-md-block">
-        <a href="https://medtucats.fmgambino.info/app/main"><img src="<?php echo base_url('assets/img/logo_ministerio.png') ?>" class="logo2"></a>
+        <a href="https://medtucats.fmgambino.info/app/main"><img src="<?php echo base_url('https://medtucats.fmgambino.info/assets/img/logo_ministerio.png') ?>" class="logo2"></a>
         </div>
         <div class="ml-5" >
             <!--  -->

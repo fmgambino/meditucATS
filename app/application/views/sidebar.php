@@ -1,6 +1,6 @@
 <div class="mdl-layout__drawer">
   <header class="hc-sidebar form-inline ">
-    <img src="<?php echo base_url('assets/img/logo_ministerio.png')?>" class="logo">    
+    <img src="<?php echo base_url('https://medtucats.fmgambino.info/assets/img/logo_ministerio.png')?>" class="logo">    
   </header>
   <div class="scroll__wrapper" id="scroll__wrapper">
     <div class="scroller" id="scroller">
