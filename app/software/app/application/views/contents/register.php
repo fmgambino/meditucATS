@@ -52,7 +52,7 @@
     <main class="">
       <div class="col-12">
         <a href="https://medtucats.fmgambino.info">
-          <img src="<?php echo base_url('https://medtucats.fmgambino.info/assets/img/logo_ministerio.png') ?>" class="logo1" />
+          <img src="<?php echo base_url('/assets/img/logo_ministerio.png') ?>" class="logo1" />
         </a>
       </div>
       <div class="">
